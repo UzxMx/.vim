@@ -25,3 +25,6 @@
 [submodule "pack/main/start/vim-ruby"]
 	path = pack/main/start/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "pack/main/start/ale"]
+	path = pack/main/start/ale
+	url = https://github.com/w0rp/ale.git
